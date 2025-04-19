@@ -47,6 +47,4 @@ Saved sample in `logs/netdata-log-sample.txt`
 
 ---
 
-## 📤 Submission
 
-GitHub Repo: [paste your link here]
